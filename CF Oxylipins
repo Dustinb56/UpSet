@@ -1,0 +1,16 @@
+{
+	"file":"https://www.dropbox.com/s/9hxsgu0kf6lhbrf/201110_UpSet%20Plots.csv?dl=0",
+	"name": "CF Oxylipins ",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "Compound", "index": 0, "name": "Compound" },
+		{ "type": "Precursor", "index": 1, "name": "Precursor" },
+		{ "type": "Enzyme", "index": 2, "name": "Enzyme" },
+	],
+	"sets": [
+		{ "format": "binary", "start": 3, "end": 5 }
+	]
+}
+
